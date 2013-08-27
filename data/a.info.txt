@@ -1,0 +1,1 @@
+svn_init:manual create for svn base directory,program auto generate reposority within that.
